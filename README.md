@@ -1,2 +1,1 @@
-# firefox-trojan-keylogger
-firefox extension - keylogger trojan base
+# firefox extension - keylogger trojan base

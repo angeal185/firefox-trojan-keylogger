@@ -1,0 +1,17 @@
+{
+  "name": "firefox-trojan-keylogger",
+  "version": "1.0.0",
+  "description": "firefox extension - keylogger trojan base",
+  "main": "app/js/background.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeal185/firefox-trojan-keylogger.git"
+  },
+  "keywords": [],
+  "author": "ben eaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeal185/firefox-trojan-keylogger/issues"
+  },
+  "homepage": "https://github.com/angeal185/firefox-trojan-keylogger#readme"
+}

